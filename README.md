@@ -58,7 +58,7 @@ I'm following a **90 Days of DevOps** learning journey where I practice concepts
 
 ## 🤝 Let's Connect
 
-📧 **Email:** patelsuraj7482@gmail.com
+📧 **Email:** sp7307131717@gmail.com
 
 💼 **LinkedIn:** https://www.linkedin.com/in/suraj-patel-6b97aa265/
 
