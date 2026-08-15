@@ -1,16 +1,71 @@
-## Hi there 👋
+# Hi 👋, I'm Suraj Patel
 
-<!--
-**Suraj-Patel01/Suraj-Patel01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### ☁️ Aspiring Cloud & DevOps Engineer | Linux | AWS | Docker | Git | Bash
 
-Here are some ideas to get you started:
+I'm currently learning **Cloud & DevOps** by building hands-on projects, practicing real-world tools, and documenting my learning journey.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Currently working on my **90 Days of DevOps Journey**
+🐧 Learning **Linux, Networking & Shell Scripting**
+☁️ Exploring **AWS & Cloud Infrastructure**
+🐳 Learning **Docker & Containerization**
+🔧 Practicing **Git, GitHub & CI/CD**
+📚 Building projects and documenting everything I learn
+
+---
+
+## 🛠️ Skills & Tools
+
+**Cloud:**
+AWS
+
+**DevOps:**
+Git | GitHub | Docker | GitHub Actions
+
+**Linux & Scripting:**
+Linux | Bash | Shell Scripting
+
+**Networking:**
+DNS | IP Addressing | Subnetting | Ports | TCP/IP
+
+**Currently Learning:**
+Kubernetes | Terraform | CI/CD | Cloud Security
+
+---
+
+## 🚀 My DevOps Journey
+
+I'm following a **90 Days of DevOps** learning journey where I practice concepts through hands-on tasks and projects.
+
+> Learn → Practice → Build → Document → Improve 🔥
+
+📂 **[90 Days of DevOps](https://github.com/Suraj-Patel01/90-Days-DevOps-Journey)**
+
+
+
+## 🎯 2026 Goals
+
+* [ ] Become job-ready as a Cloud & DevOps Engineer
+* [ ] Build real-world DevOps projects
+* [ ] Master Linux & Networking
+* [ ] Learn AWS deeply
+* [ ] Master Docker & Kubernetes
+* [ ] Learn Terraform
+* [ ] Build CI/CD pipelines
+* [ ] Learn Cloud Security
+* [ ] Continue my 90 Days of DevOps journey
+
+---
+
+## 🤝 Let's Connect
+
+📧 **Email:** YOUR-EMAIL
+
+💼 **LinkedIn:** YOUR-LINKEDIN
+
+🐙 **GitHub:** https://github.com/YOUR-USERNAME
+
+---
+
+### ⚡ Keep Learning. Keep Building. Keep Automating.
+
+**Happy Learning! 🚀**
