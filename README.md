@@ -16,7 +16,7 @@ I'm currently learning **Cloud & DevOps** by building hands-on projects, practic
 ## 🛠️ Skills & Tools
 
 **Cloud:**
-AWS ![AWS](https://githubusercontent.com)
+AWS
 
 **DevOps:**
 Git | GitHub | Docker | GitHub Actions
