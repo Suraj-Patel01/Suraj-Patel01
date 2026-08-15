@@ -16,7 +16,7 @@ I'm currently learning **Cloud & DevOps** by building hands-on projects, practic
 ## 🛠️ Skills & Tools
 
 **Cloud:**
-AWS
+AWS ![AWS](https://githubusercontent.com)
 
 **DevOps:**
 Git | GitHub | Docker | GitHub Actions
@@ -58,11 +58,11 @@ I'm following a **90 Days of DevOps** learning journey where I practice concepts
 
 ## 🤝 Let's Connect
 
-📧 **Email:** YOUR-EMAIL
+📧 **Email:** patelsuraj7482@gmail.com
 
-💼 **LinkedIn:** YOUR-LINKEDIN
+💼 **LinkedIn:** https://www.linkedin.com/in/suraj-patel-6b97aa265/
 
-🐙 **GitHub:** https://github.com/YOUR-USERNAME
+🐙 **GitHub:** https://github.com/Suraj-Patel01
 
 ---
 
