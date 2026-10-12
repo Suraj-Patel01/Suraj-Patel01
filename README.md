@@ -34,11 +34,11 @@ Kubernetes | Terraform | CI/CD | Cloud Security
 
 ## 🚀 My DevOps Journey
 
-I'm following a **90 Days of DevOps** learning journey where I practice concepts through hands-on tasks and projects.
+
 
 > Learn → Practice → Build → Document → Improve 🔥
 
-📂 **[90 Days of DevOps](https://github.com/Suraj-Patel01/90-Days-DevOps-Journey)**
+
 
 
 
